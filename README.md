@@ -1,3 +1,3 @@
-# News_App
+# Navigation Drawer in Android
 
-A simple News app written in Kotlin 
+let's see how to implement Navigation Drawer in Android
