@@ -2,6 +2,7 @@
 
 let's see how to implement Navigation Drawer in Android
 
-![Screenshot_20230327_232204](https://user-images.githubusercontent.com/102430611/228026768-5b3a2c06-2057-47c2-83b1-50a54bfc4786.png)
+![image](https://user-images.githubusercontent.com/102430611/228028373-a2b1fc2a-eb79-4633-b36e-64e58dc40838.png)
+
 
 
